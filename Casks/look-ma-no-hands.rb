@@ -1,6 +1,6 @@
 cask "look-ma-no-hands" do
-  version "1.4.6"
-  sha256 "5a5a52b6d09847876847d67dfddb3ba089eb52bba58e8e08844eb2a0cfd655fe"
+  version "1.4.7"
+  sha256 "d8d4caa7d35ac354ae3437c548feab5f05ac1e0b42cf9dd474ad14722ca7bbd1"
 
   url "https://github.com/qaid/look-ma-no-hands/releases/download/v#{version}/LookMaNoHands-#{version}.zip"
   name "Look Ma No Hands"
